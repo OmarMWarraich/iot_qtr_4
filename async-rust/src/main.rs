@@ -36,7 +36,7 @@ use std::time::Instant;
 //     println!("Time elapsed {:?}", elapsed);
 // }
 
-// use futures::executor::block_on;
+use futures::executor::block_on;
 
 // async fn hello_world(){
 //     println!("test");
@@ -52,7 +52,7 @@ println!("Started cleaning room");
 thread::sleep(Duration::from_millis(2000));
 println!("Finished cleaning room");
 }
-
+//Async returns future
 async fn make_tea(){
 // takes 20 minutes
 println!("Started making tea");
@@ -71,7 +71,7 @@ fn main(){
     let start = Instant::now();
     clean_room();
     let future = make_tea();
-    // block_on(future);
+    block_on(future);
     wash_dishes();
     let elapsed = start.elapsed();
     println!("Time taken : {:?}", elapsed);
