@@ -1,6 +1,7 @@
 use std::thread;
 use std::time::Duration;
-// use std::time::Instant;
+use std::time::Instant;
+// use async_std::task;
 
 // fn upload_media(){
 //     println!("Uploading media starts");
@@ -52,7 +53,7 @@ thread::sleep(Duration::from_millis(2000));
 println!("Finished cleaning room");
 }
 
-fn make_tea(){
+async fn make_tea(){
 // takes 20 minutes
 println!("Started making tea");
 thread::sleep(Duration::from_millis(2000));
@@ -67,7 +68,11 @@ println!("Finished washing dishes");
 }
 
 fn main(){
+    let start = Instant::now();
     clean_room();
-    make_tea();
+    let future = make_tea();
+    // block_on(future);
     wash_dishes();
+    let elapsed = start.elapsed();
+    println!("Time taken : {:?}", elapsed);
 }
