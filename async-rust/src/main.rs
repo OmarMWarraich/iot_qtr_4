@@ -64,7 +64,7 @@ println!("Finished making tea");
 async fn wash_dishes(){
 // takes 20 minutes
 println!("Started washing dishes");
-task::sleep(Duration::from_millis(1000)).await;
+task::sleep(Duration::from_millis(1500)).await;
 println!("Finished washing dishes");
 }
 

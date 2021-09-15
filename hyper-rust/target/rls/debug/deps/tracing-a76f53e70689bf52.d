@@ -1,0 +1,13 @@
+/media/usb-drive/home/remo/Documents/iot-q4/hyper-rust/target/rls/debug/deps/tracing-a76f53e70689bf52.rmeta: /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/lib.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/macros.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/dispatcher.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/field.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/instrument.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/level_filters.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/span.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/stdlib.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/subscriber.rs
+
+/media/usb-drive/home/remo/Documents/iot-q4/hyper-rust/target/rls/debug/deps/tracing-a76f53e70689bf52.d: /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/lib.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/macros.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/dispatcher.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/field.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/instrument.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/level_filters.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/span.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/stdlib.rs /home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/subscriber.rs
+
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/lib.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/macros.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/dispatcher.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/field.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/instrument.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/level_filters.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/span.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/stdlib.rs:
+/home/omar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.27/src/subscriber.rs:
